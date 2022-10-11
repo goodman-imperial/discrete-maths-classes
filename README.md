@@ -1,4 +1,6 @@
-# discrete-maths-classes
+# Discrete Mathematics classes
+
+Class notebooks for Imperial College ELEC50006 by Dan Goodman.
 
 ## Week 1
 
