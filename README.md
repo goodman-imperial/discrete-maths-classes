@@ -10,6 +10,10 @@ My recommended way of running code is to use Google Colab with a Google account 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week_1_class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week_1_class.ipynb)
 
+### Week 2. Complexity Notation
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week_2_class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week_2_class.ipynb)
+
 ## Installing Python locally
 
 If you're comfortable with Python, you can install and run Python locally. My recommended technique is as follows:
