@@ -14,6 +14,30 @@ My recommended way of running code is to use Google Colab with a Google account 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week_2_class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week_2_class.ipynb)
 
+### Week 3. Divide and Conquer
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week-3-class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week-3-class.ipynb)
+
+### Week 4. Divide and Conquer 2
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week-4-class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week-4-class.ipynb)
+
+### Week 5. Dynamic Programming
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week-5-class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week-5-class.ipynb)
+
+### Week 6. Greedy Algorithms
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week-6-class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week-6-class.ipynb)
+
+### Week 7. Graphs
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week-7-class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week-7-class.ipynb)
+
+### Week 8. Various topics
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week-8-class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week-8-class.ipynb)
+
 ## Installing Python locally
 
 If you're comfortable with Python, you can install and run Python locally. My recommended technique is as follows:
