@@ -54,7 +54,7 @@ conda config --set channel_priority strict
 Create a virtual environment:
 
 ```
-conda create --name dmclass python=3 jupyter matplotlib numpy scipy
+conda create --name dmclass python=3 jupyter matplotlib numpy scipy networkx
 ```
 
 ## Running local Jupyter notebook server
