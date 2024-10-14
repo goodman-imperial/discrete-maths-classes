@@ -8,11 +8,11 @@ My recommended way of running code is to use Google Colab with a Google account 
 
 ### Week 1. Intro and Fibonacci.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week_1_class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week_1_class.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week-1-class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week_1_class.ipynb)
 
 ### Week 2. Complexity Notation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week_2_class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week_2_class.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goodman-imperial/discrete-maths-classes/blob/main/week-2-class.ipynb) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](week_2_class.ipynb)
 
 ### Week 3. Divide and Conquer
 
